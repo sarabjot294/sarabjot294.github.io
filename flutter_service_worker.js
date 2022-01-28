@@ -39,7 +39,6 @@ const RESOURCES = {
 "assets/assests/images/projects/purchase_dark_icon_2.png": "2280220fa84972f5a05264d32f9730da",
 "assets/assests/images/projects/soochna.png": "cbc95025b8d0c73a9dbcb60b35a52258",
 "assets/assests/images/projects/spam_detection.png": "36217e02398c38f35fc159f95cbbad4e",
-"assets/assests/images/projects/stfc.png": "9938c4572b938503e4a6d489ce7c0777",
 "assets/assests/images/projects/store.png": "e852446019d052dbce525574f8a4eb95",
 "assets/assests/images/projects/survey.png": "14e7378b759318a8702d47824f3b82ec",
 "assets/assests/images/projects/symphony.png": "d8e63dcc7c3f56978233de832aa3c509",
@@ -73,9 +72,9 @@ const RESOURCES = {
 "favicon.png": "7c9aab307fc644e61dcdce90feba9a49",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8fffd4e3bc0b3df5699d5f211375f7e8",
-"/": "8fffd4e3bc0b3df5699d5f211375f7e8",
-"main.dart.js": "e8b099f42a1e3e98e8573560ac969c6d",
+"index.html": "8b6bf90fd9febddcd96df9cae9099ffb",
+"/": "8b6bf90fd9febddcd96df9cae9099ffb",
+"main.dart.js": "4fd471b2f4befccd9ddaf7125420da5a",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
